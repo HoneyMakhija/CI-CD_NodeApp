@@ -1,1 +1,1 @@
-# CI-CD_NodeApp
+# CI/CD_NodeApp
